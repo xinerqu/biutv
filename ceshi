@@ -1,28 +1,22 @@
 {
   "data": [
     {
-      "name":"江湖",
-      "webUrl":"http://119.29.1.173/api.php",
+      "http://119.29.1.173/api.php",
 },
 {
-      "name":"江湖2",
-      "Url":"http://119.29.1.173/api.php",
+     "http://119.29.1.173/api.php",
 },
      {
-      "name":"筑梦",
-      "WebUrl": "http://wzys.scp00.cn/api.php/v1.vod",
+     "http://wzys.scp00.cn/api.php/v1.vod",
 },
      {
-      "name":"筑梦2",
-      "Url": "http://wzys.scp00.cn/api.php/v1.vod",
+      "http://wzys.scp00.cn/api.php/v1.vod",
 },
       {
-      "name":"江湖3",
-      "webUrl":"http://119.29.1.173/api.php/provide/vod/",
+     "http://119.29.1.173/api.php/provide/vod/",
     },
 {
-      "name":"江湖4",
-      "Url":"http://119.29.1.173/api.php/provide/vod/",
+     "http://119.29.1.173/api.php/provide/vod/",
     },
 ]
 }
