@@ -24,6 +24,9 @@
 "name": "luobo",
 "Url":"http://luobo.yugenye.site/api.php/v1.vod",
     },
-
+{
+"name": "lezhu",
+"Url":"http://www.lezhutv.com/",
+    },
   ]
 }
