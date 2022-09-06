@@ -1,1 +1,9 @@
-http://119.29.1.173/api.php/provide/vod/
+{
+  "data": [
+    {
+      "name": "分裂",
+      "Url":"https://wolongzywcdn3.com:65/e7ruiS60/index.m3u8",
+    },
+  ]
+}
+
