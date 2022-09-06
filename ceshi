@@ -5,28 +5,33 @@
 "address":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
 },
 {
-"name": "卧龙1",
+"title": "卧龙1",
 "address":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml/?ac=list",
 },
 {
-"name": "卧龙2",
-"address":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
+"title": "卧龙2",
+"address ":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
 },
 {
-"name": "卧龙3",
+"title": "卧龙3",
 "address":"https://collect.wolongzyw.com/api.php/provide/vod",
 },
 {
-"name": "卧龙4",
+"title": "卧龙4",
 "address":"https://collect.wolongzyw.com/api.php",
 },
 {
-"name": "luobo",
+"title": "luobo",
 "address":"http://luobo.yugenye.site/api.php/v1.vod",
     },
 {
-"name": "lezhu",
+"title": "lezhu",
 "address":"http://www.lezhutv.com/",
     },
+{
+"title": "libvio",
+"address":"https://freed.yuanhsing.cf/TVBox/MaooXB2/LIBVIO.json",
+    },
+
   ]
 }
