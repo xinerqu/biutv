@@ -31,14 +31,14 @@
 "address":"http://luobo.yugenye.site/api.php/v1.vod",
     },
 {
-"title": "lezhu",
+"title": "直播address",
 "Number" : "6",
-"address":"http://www.lezhutv.com/",
+"address":"https://fastly.jsdelivr.net/gh/vamoschuck/TV@main/M3U",
     },
 {
-"title": "libvio",
+"title": "直播url",
 "Number" : "24",
-"address":"https://freed.yuanhsing.cf/TVBox/MaooXB2/LIBVIO.json",
+"url":"https://fastly.jsdelivr.net/gh/vamoschuck/TV@main/M3U",
     },
 
   ]
