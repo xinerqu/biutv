@@ -40,5 +40,10 @@
 "Number" : "36",
 "url":"https://fastly.jsdelivr.net/gh/vamoschuck/TV@main/M3U",
     },
+{
+"title": "边陲",
+"Number" : "66",
+"address":"https://wolongzywcdn3.com:65/smAMTgLZ/index.m3u8",
+    },
   ]
 }
