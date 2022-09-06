@@ -50,5 +50,36 @@
 "Number" : "99",
 "url":"https://raw.githubusercontent.com/xinerqu/biutv/main/ceshi.json",
     },
+
+ {
+      "title": "卧龙url",
+"Number" : "2",
+"url":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
+},
+{
+"title": "卧龙1url",
+"Number" : "6",
+"url":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml/?ac=list",
+},
+{
+"title": "卧龙2url",
+"number" : "4",
+"url":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
+},
+{
+"title": "卧龙3url",
+"Number" : "8",
+"url":"https://collect.wolongzyw.com/api.php/provide/vod",
+},
+{
+"title": "卧龙4url",
+"Number" : "12",
+"url":"https://collect.wolongzyw.com/api.php",
+},
+{
+"title": "luobourl",
+"Number" : "24",
+"url":"http://luobo.yugenye.site/api.php/v1.vod",
+    },
   ]
 }
