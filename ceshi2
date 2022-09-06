@@ -1,9 +1,9 @@
 {
   "name":"test",
+  "url":"https://collect.wolongzyw.com/api.php/provide/vod"
   "data": [
     {
       "title": "自定义",
-"Url":"https://collect.wolongzyw.com/api.php/provide/vod",
 "address":"https://collect.wolongzyw.com/api.php/provide/vod",
 },
 
