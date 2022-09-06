@@ -1,10 +1,10 @@
 {
-  "name":"test",
-  "url":"https://collect.wolongzyw.com/api.php/provide/vod"
+  "title":"test",
+  "Address":"https://collect.wolongzyw.com/api.php/provide/vod"
   "data": [
     {
-      "title": "自定义",
-"address":"https://collect.wolongzyw.com/api.php/provide/vod",
+      "name": "自定义",
+"Url":"https://collect.wolongzyw.com/api.php/provide/vod",
 },
 
 {
