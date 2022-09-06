@@ -2,26 +2,22 @@
   "data": [
     {
       "title": "自定义",
-"number" : "2",
-"address":"https://reurl.cc/8p9oZy",
+"address":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml/?ac=list",
 },
 
 {
       "title": "自定义2",
-"number" : "2",
-"address":"https://reurl.cc/4pN17D",
+"address":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
 },
 
 {
       "title": "自定义3",
-"number" : "2",
-"address":"https://reurl.cc/QbaLAM",
+"address":"https://collect.wolongzyw.com/api.php/provide/vod",
 },
 
 {
       "title": "自定义4",
-"number" : "2",
-"url":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml/?ac=list",
+"url":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
 "address":"https://wolongzywcdn3.com:65/",
 },
 
