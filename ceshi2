@@ -2,7 +2,8 @@
   "data": [
     {
       "title": "自定义",
-"address":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml/?ac=list",
+"Url":"https://collect.wolongzyw.com/api.php/provide/vod",
+"address":"https://collect.wolongzyw.com/api.php/provide/vod",
 },
 
 {
