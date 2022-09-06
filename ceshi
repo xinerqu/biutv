@@ -19,6 +19,11 @@
 {
 "name": "卧龙4",
 "Url":"https://collect.wolongzyw.com/api.php",
+},
+{
+"name": "luobo",
+"Url":"http://luobo.yugenye.site/api.php/v1.vod",
     },
+
   ]
 }
