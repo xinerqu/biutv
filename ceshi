@@ -1,32 +1,32 @@
 {
   "data": [
     {
-      "name": "卧龙",
-"Url":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
+      "title": "卧龙",
+"address":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
 },
 {
 "name": "卧龙1",
-"Url":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml/?ac=list",
+"address":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml/?ac=list",
 },
 {
 "name": "卧龙2",
-"Url":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
+"address":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
 },
 {
 "name": "卧龙3",
-"Url":"https://collect.wolongzyw.com/api.php/provide/vod",
+"address":"https://collect.wolongzyw.com/api.php/provide/vod",
 },
 {
 "name": "卧龙4",
-"Url":"https://collect.wolongzyw.com/api.php",
+"address":"https://collect.wolongzyw.com/api.php",
 },
 {
 "name": "luobo",
-"Url":"http://luobo.yugenye.site/api.php/v1.vod",
+"address":"http://luobo.yugenye.site/api.php/v1.vod",
     },
 {
 "name": "lezhu",
-"Url":"http://www.lezhutv.com/",
+"address":"http://www.lezhutv.com/",
     },
   ]
 }
