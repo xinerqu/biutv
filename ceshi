@@ -5,41 +5,6 @@
 "Number" : "24",
 "address":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
 },
-{
-"title": "卧龙1",
-"Number" : "24",
-"address":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml/?ac=list",
-},
-{
-"title": "卧龙2",
-"number" : "24",
-"address":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
-},
-{
-"title": "卧龙3",
-"Number" : "24",
-"address":"https://collect.wolongzyw.com/api.php/provide/vod",
-},
-{
-"title": "卧龙4",
-"Number" : "24",
-"address":"https://collect.wolongzyw.com/api.php",
-},
-{
-"title": "luobo",
-"Number" : "24",
-"address":"http://luobo.yugenye.site/api.php/v1.vod",
-    },
-{
-"title": "直播address",
-"Number" : "6",
-"address":"https://fastly.jsdelivr.net/gh/vamoschuck/TV@main/M3U",
-    },
-{
-"title": "直播url",
-"Number" : "24",
-"url":"https://fastly.jsdelivr.net/gh/vamoschuck/TV@main/M3U",
-    },
 
   ]
 }
