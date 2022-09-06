@@ -3,7 +3,30 @@
     {
       "title": "自定义",
 "Number" : "2",
-"address":"https://www.555dy.fun/vodshow/1-----------.html",
+"address":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
+"URL":"https://jx.wolongzywcdn.com:65/m3u8.php?url=",
 },
+
+{
+      "title": "自定义2",
+"Number" : "2",
+"URL":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
+"address":"https://jx.wolongzywcdn.com:65/m3u8.php?url=",
+},
+
+{
+      "title": "自定义3",
+"Number" : "2",
+"address":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
+"URL":"https://wolongzywcdn3.com:65/",
+},
+
+{
+      "title": "自定义4",
+"Number" : "2",
+"Url":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
+"Address":"https://wolongzywcdn3.com:65/",
+},
+
   ]
 }
