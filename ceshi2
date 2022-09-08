@@ -8,14 +8,17 @@
 
 {
       "title": "自定义3",
-"address":"https://collect.wolongzyw.com/api.php/provide/vod",
+"address":"https://raw.githubusercontent.com/xinerqu/biutv/main/ceshi2",
+"type":"dir"
 },
-
 {
       "title": "自定义4",
 "address":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
   "type":"dir" 
 },
-
+{
+      "title": "自定义4",
+"address":"https://vdse.bdstatic.com//9f546190233b85e18c84ba55166dc2b4.mp4", 
+},
   ]
 }
