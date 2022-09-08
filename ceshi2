@@ -1,15 +1,9 @@
 {
-  "title":"test",
-  "Address":"https://collect.wolongzyw.com/api.php/provide/vod"
   "data": [
-    {
-      "name": "自定义",
-"Url":"https://collect.wolongzyw.com/api.php/provide/vod",
-},
-
 {
       "title": "自定义2",
-"address":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml",
+"address":"https://raw.githubusercontent.com/TyrantG/hikerViewRules/master/VIDEO/OneList.js",
+"type": "dir" 
 },
 
 {
