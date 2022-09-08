@@ -19,8 +19,8 @@
 
 {
       "title": "自定义4",
-"url":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
-"address":"https://wolongzywcdn3.com:65/",
+"address":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
+  "type": "dir" 
 },
 
   ]
