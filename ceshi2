@@ -3,7 +3,7 @@
 {
       "title": "自定义2",
 "address":"https://raw.githubusercontent.com/TyrantG/hikerViewRules/master/VIDEO/OneList.js",
-"type": "dir" 
+"type":"dir" 
 },
 
 {
@@ -14,7 +14,7 @@
 {
       "title": "自定义4",
 "address":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
-  "type": "dir" 
+  "type":"dir" 
 },
 
   ]
