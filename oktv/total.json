@@ -5,11 +5,14 @@
   "address":"https://fastly.jsdelivr.net/china/gh/xinerqu/biutv/oktv/films/films.json",
   "type":"dir",
 },  
-
 {
   "title":"剧集",
   "address":"https://fastly.jsdelivr.net/china/gh/xinerqu/biutv/oktv/series/series.json",
   "type":"dir",
+},  
+{
+  "title":"说明",
+  "address":"https://fastly.jsdelivr.net/china/gh/xinerqu/biutv/oktv/IMG_1711.MOV",
 },  
   ]
 }
