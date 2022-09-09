@@ -2,12 +2,12 @@
 "data": [
 {
   "title":"电影",
-  "address":"https://fastly.jsdelivr.net/china/gh/xinerqu/biutv/oktv/films/films.json",
+  "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/films/films.json",
   "type":"dir",
 },  
 {
   "title":"剧集",
-  "address":"https://fastly.jsdelivr.net/china/gh/xinerqu/biutv/oktv/series/series.json",
+  "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/series/series.json",
   "type":"dir",
 },  
 {
