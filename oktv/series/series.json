@@ -2,7 +2,7 @@
 "data": [
 {
   "title": "鱿鱼游戏",
-  "address":"https://fastly.jsdelivr.net/china/gh/xinerqu/biutv/oktv/series/鱿鱼游戏/鱿鱼游戏.json",
+  "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/series/鱿鱼游戏/鱿鱼游戏.json",
   "type":"dir",
   },  
   ]
