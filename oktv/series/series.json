@@ -5,5 +5,12 @@
   "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/series/鱿鱼游戏/鱿鱼游戏.json",
   "type":"dir",
   },  
+
+{
+  "title": "冰雨火",
+  "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/series/冰雨火/冰雨火.json",
+  "type":"dir",
+  },  
+
   ]
 }
