@@ -6,7 +6,7 @@
 "caijizhan":[
 {"name":"七七采集","url":"http://api.kunyu77.com/api.php"},
 {"name":"苹果采集","url":"http://107.150.5.146:39000/maccms10-main/api.php"},
-{"name":"6u资源(切)","url":"http://www.6uzy.cc/inc/apijson_vod.php"}, 
+{"name":"星河资源(切)","url":"https://api.iniki.cn/api.php"}, 
 {"name":"江湖官采(官)","url":"http://119.29.1.173/api.php"},
 {"name":"诺讯资源(官)","url":"http://caiji.nxflv.com/api.php"},
 {"name":"卧龙资源(切)","url":"https://collect.wolongzyw.com/api.php"}],
