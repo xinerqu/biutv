@@ -2,7 +2,7 @@
   "data": [
 {
       "title": "自定义2",
-"address":"https://raw.githubusercontent.com/TyrantG/hikerViewRules/master/VIDEO/OneList.js",
+"address":"https://fastly.jsdelivr.net/gh/vamoschuck/TV@main/M3U",
 "type":"dir" 
 },
 
@@ -18,7 +18,7 @@
 },
 {
       "title": "自定义4",
-"address":"https://vdse.bdstatic.com//9f546190233b85e18c84ba55166dc2b4.mp4", 
+"address":"https://fastly.jsdelivr.net/gh/vamoschuck/TV@main/M3U", 
 },
   ]
 }
