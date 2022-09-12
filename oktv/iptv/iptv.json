@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "title": "央视",
-      "address": "https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/iptv/央视/央视.json"
-    "type": "dir",
+      "title":"央视",
+      "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/iptv/央视/央视.json"
+    "type":"dir",
 },
     {
-      "title": "卫视",
-      "address": "https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/iptv/卫视/卫视.json"
-    "type": "dir",
+      "title":"卫视",
+      "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/iptv/卫视/卫视.json"
+    "type":"dir",
 },
   ]
 }
