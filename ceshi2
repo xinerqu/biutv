@@ -1,24 +1,8 @@
 {
   "data": [
 {
-      "title": "自定义2",
-"address":"https://fastly.jsdelivr.net/gh/vamoschuck/TV@main/M3U",
-"type":"dir" 
-},
-
-{
-      "title": "自定义3",
-"address":"https://raw.githubusercontent.com/xinerqu/biutv/main/ceshi2",
-"type":"dir"
-},
-{
-      "title": "自定义4",
-"address":"https://collect.wolongzyw.com/api.php/provide/vod/?ac=list",
-  "type":"dir" 
-},
-{
-      "title": "自定义4",
-"address":"http://www.lezhutv.com/hls2/index.php?url=UmG3Uu29MxjQwMDk5My0xLTEtMS0xLTEtMQO0O0OO0O0O==", 
+      "name": "自定义4",
+"url":"http://www.lezhutv.com/hls2/index.php?url=UmG3Uu29MxjQwMDk5My0xLTEtMS0xLTEtMQO0O0OO0O0O==", 
 },
   ]
 }
