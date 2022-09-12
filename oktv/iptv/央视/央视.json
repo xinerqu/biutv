@@ -1,1 +1,96 @@
-
+{
+  "data": [
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv1hd",
+      "title": "CCTV-1 综合"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv2hd",
+      "title": "CCTV-2 财经"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv3hd",
+      "title": "CCTV-3 综艺"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv4hd",
+      "title": "CCTV-4 中文国际"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv5hd",
+      "title": "CCTV-5 体育"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv5p",
+      "title": "CCTV-5+ 体育赛事"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv6hd",
+      "title": "CCTV-6 电影"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv7hd",
+      "title": "CCTV-7 国防军事"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv8hd",
+      "title": "CCTV-8 电视剧"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv9hd2",
+      "title": "CCTV-9 纪录"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv10hd",
+      "title": "CCTV-10 科教"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv11hd",
+      "title": "CCTV-11 戏曲"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv12hd",
+      "title": "CCTV-12 社会与法"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv13hd",
+      "title": "CCTV-13 新闻"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv14hd",
+      "title": "CCTV-14 少儿"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv15hd",
+      "title": "CCTV-15 音乐"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv16hd",
+      "title": "CCTV-16 奥林匹克"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv164k",
+      "title": "CCTV-16 奥林匹克4K"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv17hd",
+      "title": "CCTV-17 农业农村"
+    },
+    {
+      "url": "http://live.cooltv.top/tv/aishang.php?id=cgtnhd",
+      "title": "CGTN "
+    },
+    {
+      "url": "http://[2409:8087:6a01:1020::9]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/1/index.m3u8?fmt=ts2hls",
+      "title": "CGTN纪录"
+    },
+    {
+      "url": "http://source07.v.news.cn/live/CNC_CN/playlist.m3u8",
+      "title": "CNC中文"
+    },
+    {
+      "url": "http://source07.v.news.cn/live/CNC_EN/playlist.m3u8",
+      "title": "CNC英文"
+    }
+  ],
+}
