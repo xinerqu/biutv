@@ -2,6 +2,36 @@
 "data": [
 
 {	
+  "title": "龙岭迷窟",
+  "address":"https://json.m3u8.pw:4399/Cache/youku/6ddfa34423c67f30ab1ec08762bc5a7f.m3u8",
+},
+
+{	
+  "title": "七人乐队",
+  "address":"https://json.m3u8.pw:4399/Cache/youku/9491955e5ac1426a28ad22bb86ee71b7.m3u8",
+},
+
+{	
+  "title": "猎探",
+  "address":"https://json.m3u8.pw:4399/Cache/youku/290a564ebb2016c20cc3424ae65c5d85.m3u8",
+},
+
+{	
+  "title": "遇见你",
+  "address":"https://json.m3u8.pw:4399/Cache/youku/f19842d99c9f48a70e8edc8b0536bdb1.m3u8",
+},
+
+{	
+  "title": "恶到必除",
+  "address":"https://cache.json.icu/m3u8/1659108209.m3u8",
+},
+
+{	
+  "title": "排爆手",
+  "address":"https://cache.json.icu/m3u8/1659449592.m3u8",
+},
+
+{	
   "title": "老师来了",
   "address":"https:\/\/json.m3u8.pw:4399\/Cache\/qiyi\/5e545253c9809814d34d35c2f0e439b1.m3u8",
 },
