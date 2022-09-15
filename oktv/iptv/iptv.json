@@ -10,5 +10,11 @@
       "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/iptv/卫视/卫视.json",
     "type":"dir",
 },
+
+{
+      "title":"抖音小姐姐",
+      "address":"http://v.nrzj.vip/video.php",
+},
+
   ]
 }
