@@ -1,96 +1,112 @@
 {
   "data": [
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv1hd",
-      "title": "CCTV-1 综合"
+      "title": "CCTV1综合",
+      "url": "http://218.93.208.119:54799/migu/?id=608807420"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv2hd",
-      "title": "CCTV-2 财经"
+      "title": "CCTV2财经",
+      "url": "http://218.93.208.119:54799/migu/?id=631780532"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv3hd",
-      "title": "CCTV-3 综艺"
+      "title": "CCTV3综艺",
+      "url": "http://218.93.208.119:54799/migu/?id=624878271"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv4hd",
-      "title": "CCTV-4 中文国际"
+      "title": "CCTV4中文国际",
+      "url": "http://218.93.208.119:54799/migu/?id=631780421"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv5hd",
-      "title": "CCTV-5 体育"
+      "title": "CCTV5体育",
+      "url": "http://218.93.208.119:54799/migu/?id=641886683"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv5p",
-      "title": "CCTV-5+ 体育赛事"
+      "title": "CCTV5+体育赛事",
+      "url": "http://218.93.208.119:54799/migu/?id=641886773"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv6hd",
-      "title": "CCTV-6 电影"
+      "title": "CCTV6电影",
+      "url": "http://218.93.208.119:54799/migu/?id=624878396"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv7hd",
-      "title": "CCTV-7 国防军事"
+      "title": "CCTV7国防军事",
+      "url": "http://218.93.208.119:54799/migu/?id=673168121"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv8hd",
-      "title": "CCTV-8 电视剧"
+      "title": "CCTV8电视剧",
+      "url": "http://218.93.208.119:54799/migu/?id=624878356"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv9hd2",
-      "title": "CCTV-9 纪录"
+      "title": "CCTV9纪录",
+      "url": "http://218.93.208.119:54799/migu/?id=673168140"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv10hd",
-      "title": "CCTV-10 科教"
+      "title": "CCTV10科教",
+      "url": "http://218.93.208.119:54799/migu/?id=624878405"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv11hd",
-      "title": "CCTV-11 戏曲"
+      "title": "CCTV11戏曲",
+      "url": "http://218.93.208.119:54799/migu/?id=667987558"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv12hd",
-      "title": "CCTV-12 社会与法"
+      "title": "CCTV12社会与法",
+      "url": "http://218.93.208.119:54799/migu/?id=673168185"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv13hd",
-      "title": "CCTV-13 新闻"
+      "title": "CCTV13新闻",
+      "url": "http://218.93.208.119:54799/migu/?id=608807423"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv14hd",
-      "title": "CCTV-14 少儿"
+      "title": "CCTV14少儿",
+      "url": "http://218.93.208.119:54799/migu/?id=624878440"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv15hd",
-      "title": "CCTV-15 音乐"
+      "title": "CCTV15音乐",
+      "url": "http://218.93.208.119:54799/migu/?id=673168223"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv16hd",
-      "title": "CCTV-16 奥林匹克"
+      "url": "http://218.93.208.119:54799/migu/?id=673168256",
+      "title": "CCTV17农业农村"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv164k",
-      "title": "CCTV-16 奥林匹克4K"
+      "url": "http://218.93.208.119:54799/migu/?id=608807419",
+      "title": "CCTV4欧洲"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cctv17hd",
-      "title": "CCTV-17 农业农村"
+      "title": "CCTV4美洲",
+      "url": "http://218.93.208.119:54799/migu/?id=608807416"
     },
     {
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cgtnhd",
-      "title": "CGTN "
+      "title": "CCTV9Documentary",
+      "url": "http://218.93.208.119:54799/migu/?id=609006487"
     },
     {
-      "url": "http://[2409:8087:6a01:1020::9]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226271/1/index.m3u8?fmt=ts2hls",
-      "title": "CGTN纪录"
+      "url": "http://218.93.208.119:54799/migu/?id=609154345",
+      "title": "CCTV阿拉伯语"
     },
     {
-      "url": "http://source07.v.news.cn/live/CNC_CN/playlist.m3u8",
-      "title": "CNC中文"
+      "title": "CCTV西班牙语",
+      "url": "http://218.93.208.119:54799/migu/?id=609006450"
     },
     {
-      "url": "http://source07.v.news.cn/live/CNC_EN/playlist.m3u8",
-      "title": "CNC英文"
+      "url": "http://218.93.208.119:54799/migu/?id=609006476",
+      "title": "CCTV法语"
+    },
+    {
+      "url": "http://218.93.208.119:54799/migu/?id=609006446",
+      "title": "CCTV俄语"
+    },
+    {
+      "title": "CCTV发现之旅",
+      "url": "http://218.93.208.119:54799/migu/?id=624878970"
+    },
+    {
+      "title": "CCTV中学生",
+      "url": "http://218.93.208.119:54799/migu/?id=708869532"
+    },
+    {
+      "title": "CGTN",
+      "url": "http://218.93.208.119:54799/migu/?id=609017205"
     }
   ],
 }
