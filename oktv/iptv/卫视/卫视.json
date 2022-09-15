@@ -1,192 +1,104 @@
 {
   "data": [
     {
-      "title": "湖南卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=hunwshd"
+      "url": "http://218.93.208.119:54799/migu/?id=630287636",
+      "title": "北京卫视"
     },
     {
-      "title": "浙江卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=zjwshd"
+      "url": "http://218.93.208.119:54799/migu/?id=635491149",
+      "title": "湖南卫视"
     },
     {
-      "title": "东方卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=dfwshd"
+      "url": "http://218.93.208.119:54799/migu/?id=651632648",
+      "title": "东方卫视"
     },
     {
-      "title": "江苏卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=jswshd"
+      "url": "http://218.93.208.119:54799/migu/?id=608831231",
+      "title": "广东卫视"
     },
     {
-      "title": "北京卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=bjwshd"
+      "url": "http://218.93.208.119:54799/migu/?id=623899368",
+      "title": "江苏卫视"
     },
     {
-      "title": "深圳卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=szwshd"
+      "url": "http://218.93.208.119:54799/migu/?id=630291707",
+      "title": "辽宁卫视"
     },
     {
-      "title": "山东卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=sdwshd"
+      "url": "http://218.93.208.119:54799/migu/?id=738906895",
+      "title": "江西卫视"
     },
     {
-      "title": "广东卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=gdwshd"
+      "url": "http://218.93.208.119:54799/migu/?id=738910366",
+      "title": "山东卫视"
     },
     {
-      "title": "安徽卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=ahwshd"
+      "url": "http://218.93.208.119:54799/migu/?id=738910914",
+      "title": "重庆卫视"
     },
     {
-      "title": "东南卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=dnwshd"
+      "url": "http://218.93.208.119:54799/migu/?id=738910804",
+      "title": "四川卫视"
     },
     {
-      "title": "山西卫视",
-      "url": "http://live.cooltv.top/tv/yqdtv.php?id=133"
+      "url": "http://218.93.208.119:54799/migu/?id=738906901",
+      "title": "黑龙江卫视"
     },
     {
-      "title": "天津卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=tjwshd"
+      "url": "http://218.93.208.119:54799/migu/?id=738910838",
+      "title": "陕西卫视"
     },
     {
-      "title": "重庆卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cqws"
+      "url": "http://218.93.208.119:54799/migu/?id=738906860",
+      "title": "海南卫视"
     },
     {
-      "title": "湖北卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=hubwshd"
+      "url": "http://218.93.208.119:54799/migu/?id=608917627",
+      "title": "南方卫视TVS2"
     },
     {
-      "title": "四川卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=scws"
+      "url": "http://218.93.208.119:54799/migu/?id=738906825",
+      "title": "湖北卫视"
     },
     {
-      "title": "河南卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=hnws"
+      "url": "http://218.93.208.119:54799/migu/?id=738911430",
+      "title": "内蒙古卫视"
     },
     {
-      "title": "陕西卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=sxws"
+      "url": "http://218.93.208.119:54799/migu/?id=738910997",
+      "title": "甘肃卫视"
     },
     {
-      "title": "吉林卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=jlws"
+      "url": "http://218.93.208.119:54799/migu/?id=738910476",
+      "title": "新疆卫视"
     },
     {
-      "title": "云南卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=ynws"
+      "url": "http://218.93.208.119:54799/migu/?id=738910461",
+      "title": "西藏卫视"
     },
     {
-      "title": "广西卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=gxws"
+      "url": "http://218.93.208.119:54799/migu/?id=738910535",
+      "title": "宁夏卫视"
     },
     {
-      "title": "江西卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=jxws"
+      "url": "http://218.93.208.119:54799/migu/?id=738898615",
+      "title": "广西卫视"
     },
     {
-      "title": "辽宁卫视",
-      "url": "http://live.cooltv.top/tv/yqdtv.php?id=145"
+      "url": "http://218.93.208.119:54799/migu/?id=738907518",
+      "title": "云南卫视"
     },
     {
-      "title": "黑龙江卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=hljwshd"
+      "url": "http://218.93.208.119:54799/migu/?id=738907633",
+      "title": "贵州卫视"
     },
     {
-      "title": "河北卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=hbwshd"
+      "url": "http://218.93.208.119:54799/migu/?id=738898486",
+      "title": "青海卫视"
     },
     {
-      "title": "海南卫视",
-      "url": "http://live.cooltv.top/tv/yqdtv.php?id=061"
-    },
-    {
-      "title": "青海卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=qhws"
-    },
-    {
-      "title": "贵州卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=gzwshd"
-    },
-    {
-      "title": "西藏卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=xzws"
-    },
-    {
-      "title": "甘肃卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=gsws"
-    },
-    {
-      "title": "新疆卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=xjws"
-    },
-    {
-      "title": "厦门卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=xmws"
-    },
-    {
-      "title": "内蒙古卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=nmws"
-    },
-    {
-      "title": "三沙卫视",
-      "url": "http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS"
-    },
-    {
-      "title": "海峡卫视",
-      "url": "rtsp://183.252.166.199/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil"
-    },
-    {
-      "title": "兵团卫视",
-      "url": "http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8"
-    },
-    {
-      "title": "中国教育",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cetv1hd"
-    },
-    {
-      "title": "中国教育2",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cetv2"
-    },
-    {
-      "title": "中国教育4",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=cetv4"
-    },
-    {
-      "title": "山东教育卫视",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=sdjy"
-    },
-    {
-      "title": "北京冬奥纪实",
-      "url": "http://live.cooltv.top/tv/btime.php?id=bjjs"
-    },
-    {
-      "title": "纪实人文",
-      "url": "http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8"
-    },
-    {
-      "title": "金鹰纪实",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=jyjs"
-    },
-    {
-      "title": "金鹰卡通",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=jykt"
-    },
-    {
-      "title": "卡酷少儿",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=kkse"
-    },
-    {
-      "title": "哈哈炫动",
-      "url": "http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8"
-    },
-    {
-      "title": "优漫卡通",
-      "url": "http://live.cooltv.top/tv/jiangsu.php?id=ymkt"
-    },
-    {
-      "title": "嘉佳卡通",
-      "url": "http://live.cooltv.top/tv/aishang.php?id=jjkt"
+      "url": "http://218.93.208.119:54799/migu/?id=738906889",
+      "title": "吉林卫视"
     }
   ],
 }
