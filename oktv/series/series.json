@@ -31,6 +31,12 @@
   },
 
 {
+  "title": "琅琊榜",
+  "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/series/琅琊榜/琅琊榜.json",
+  "type":"dir",
+  },
+
+{
   "title": "昆仑神宫",
   "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/series/昆仑神宫/昆仑神宫.json",
   "type":"dir",
