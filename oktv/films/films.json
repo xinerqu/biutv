@@ -2,6 +2,11 @@
 "data": [
 
 {	
+  "title": "灰影人",
+  "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/films/灰影人.m3u8",
+},
+
+{	
   "title": "匹诺曹-迪士尼真人版",
   "address":"https://sh-data-s01.chinaeast2.cloudapp.chinacloudapi.cn:1401/Cache/19277014a7f645df4794f3d0966652a2.m3u8",
 },
