@@ -2,6 +2,21 @@
 "data": [
 
 {	
+  "title": "大圣归来",
+  "address":"https://json.m3u8.pw:4399/Cache/qiyi/7896920fa9a0dfba18ccfcb6e5d42302.m3u8",
+},
+
+{	
+  "title": "大话西游之大圣娶亲",
+  "address":"https://json.m3u8.pw:4399/Cache/qiyi/cdc1f8d1317264340f7de711bd2d54e1.m3u8",
+},
+
+{	
+  "title": "大话西游之月光宝盒",
+  "address":"https://json.m3u8.pw:4399/Cache/qiyi/264e12f0d930c6d246f454ee63f599c7.m3u8",
+},
+
+{	
   "title": "大梦西游之五行山",
   "address":"https://json.m3u8.pw:4399/Cache/qiyi/20fa6a73583dca50ee091ef272513860.m3u8",
 },
