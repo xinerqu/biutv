@@ -55,5 +55,11 @@
   "type":"dir",
   },
 
+{
+  "title": "老九门",
+  "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/series/老九门/老九门.json",
+  "type":"dir",
+  },
+
   ]
 }
