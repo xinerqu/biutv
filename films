@@ -1,9 +1,23 @@
  {
 "data": [
 {
-  "title": "风乐视解析",
-  "address":"http://218.93.208.119:54799/letv/?url=http://www.le.com/ptv/vplay/77367944.html",
-  "type"："dir"
+  "title":"电影",
+  "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/films/films.json",
+  "type":"json",
+},  
+{
+  "title":"剧集",
+  "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/series/series.json",
+  "type":"dir",
+},  
+{
+  "title":"直播",
+  "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/iptv/iptv.json",
+  "type":"dir",
+}, 
+{
+  "title":"说明",
+  "address":"https://cdn.jsdelivr.net/china/gh/xinerqu/biutv/oktv/FullSizeRender.MOV",
 },  
   ]
 }
