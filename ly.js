@@ -1,4 +1,5 @@
-let obj = JSON.parse($response.body);
+let body = $response.body;
+var obj = JSON.parse(body);
 delete obj.code;
 delete obj.msg;
 delete obj.limit;
