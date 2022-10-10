@@ -1,10 +1,9 @@
-let body = $response.body;
-var obj = JSON.parse(body);
-delete obj.code;
-delete obj.msg;
-delete obj.limit;
-delete obj.pagecount;
-delete obj.total;
-delete obj.list;
-delete obj.vod_id;
-$done({body: JSON.stringify(obj)});
+let body = JSON.parse($response.body)
+delete body.code;
+delete body.msg;
+delete body.limit;
+delete body.pagecount;
+delete body.total;
+delete body.list;
+delete body.vod_id;
+$done({body: JSON.stringify(body)});
