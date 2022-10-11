@@ -76,6 +76,4 @@ delete body.list.vod_content
 delete body.list.vod_play_from
 delete body.list.vod_play_server
 delete body.list.vod_play_note
-$done({body: JSON.stringify(body)});                                                                　　香港古董商明叔为了寻找《格萨尔王》中传说的魔国冰川水晶尸，便雇请胡八一（潘粤明 饰）、王凯旋（姜超 饰）、Shirley杨（张雨绮 饰）等三位摸金校尉入藏寻找，从而开启了一段古墓探险之旅。
-
-
+$done({body: JSON.stringify(body)});                                                                　　
